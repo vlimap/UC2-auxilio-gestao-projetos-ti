@@ -64,5 +64,5 @@ A definição clara de papéis e responsabilidades é crucial para o sucesso de 
 - [Aula 01 - Gestão de Projetos: Introdução](https://www.youtube.com/watch?v=trhDHOC3xGw&list=PLnhUek92-enioRGAFZ9Vf_qfWt7rCR8vw) (Vídeo)
 - [[Curso 100% Gratuito] Certificação CAPM e PMP | Introdução - Aula 01](https://www.youtube.com/watch?v=Yatl4PfRYvs&list=PLnhUek92-enj0V2fSAoS8DkPxO0SVQW6j) (Vídeo)
 - [Decifrando Agile 1 - Por que e quando usar Métodos Ágeis?](https://www.youtube.com/watch?v=efZlpew90Nk) (Vídeo)
-- [Padrão de Gerenciamento de Projetos e do Guia PMBOK®](https://github.com/vlimap/UC2-auxilio-gestao-projetos-ti/commit/a25f43d3f434fe1a61a23d7b0ed812816bd4f8c6) (Livro)
+- [Padrão de Gerenciamento de Projetos e do Guia PMBOK®](https://github.com/vlimap/UC2-auxilio-gestao-projetos-ti/blob/main/conteudos/Aula_01/Guia_PMBOK_7a_Edicao_Portugues_2021.pdf) (Livro)
 
